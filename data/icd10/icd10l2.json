@@ -1,0 +1,1427 @@
+{
+    "A00-A09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A00-A09",
+        "description": "Intestinal infectious diseases",
+        "parent": "A00-B99"
+    },
+    "A15-A19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A15-A19",
+        "description": "Tuberculosis",
+        "parent": "A00-B99"
+    },
+    "A20-A28": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A20-A28",
+        "description": "Certain zoonotic bacterial diseases",
+        "parent": "A00-B99"
+    },
+    "A30-A49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A30-A49",
+        "description": "Other bacterial diseases",
+        "parent": "A00-B99"
+    },
+    "A50-A64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A50-A64",
+        "description": "Infections with a predominantly sexual mode of transmission",
+        "parent": "A00-B99"
+    },
+    "A65-A69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A65-A69",
+        "description": "Other spirochetal diseases",
+        "parent": "A00-B99"
+    },
+    "A70-A74": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A70-A74",
+        "description": "Other diseases caused by chlamydiae",
+        "parent": "A00-B99"
+    },
+    "A75-A79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A75-A79",
+        "description": "Rickettsioses",
+        "parent": "A00-B99"
+    },
+    "A80-A89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A80-A89",
+        "description": "Viral and prion infections of the central nervous system",
+        "parent": "A00-B99"
+    },
+    "A90-A99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/A90-A99",
+        "description": "Arthropod-borne viral fevers and viral hemorrhagic fevers",
+        "parent": "A00-B99"
+    },
+    "B00-B09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B00-B09",
+        "description": "Viral infections characterized by skin and mucous membrane lesions",
+        "parent": "A00-B99"
+    },
+    "B10-B10": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B10-B10",
+        "description": "Other human herpesviruses",
+        "parent": "A00-B99"
+    },
+    "B15-B19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B15-B19",
+        "description": "Viral hepatitis",
+        "parent": "A00-B99"
+    },
+    "B20-B20": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B20-B20",
+        "description": "Human immunodeficiency virus [HIV] disease",
+        "parent": "A00-B99"
+    },
+    "B25-B34": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B25-B34",
+        "description": "Other viral diseases",
+        "parent": "A00-B99"
+    },
+    "B35-B49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B35-B49",
+        "description": "Mycoses",
+        "parent": "A00-B99"
+    },
+    "B50-B64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B50-B64",
+        "description": "Protozoal diseases",
+        "parent": "A00-B99"
+    },
+    "B65-B83": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B65-B83",
+        "description": "Helminthiases",
+        "parent": "A00-B99"
+    },
+    "B85-B89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B85-B89",
+        "description": "Pediculosis, acariasis and other infestations",
+        "parent": "A00-B99"
+    },
+    "B90-B94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B90-B94",
+        "description": "Sequelae of infectious and parasitic diseases",
+        "parent": "A00-B99"
+    },
+    "B95-B97": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B95-B97",
+        "description": "Bacterial and viral infectious agents",
+        "parent": "A00-B99"
+    },
+    "B99-B99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99/B99-B99",
+        "description": "Other infectious diseases",
+        "parent": "A00-B99"
+    },
+    "C00-C14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C00-C14",
+        "description": "Malignant neoplasms of lip, oral cavity and pharynx",
+        "parent": "C00-D49"
+    },
+    "C15-C26": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C15-C26",
+        "description": "Malignant neoplasms of digestive organs",
+        "parent": "C00-D49"
+    },
+    "C30-C39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C30-C39",
+        "description": "Malignant neoplasms of respiratory and intrathoracic organs",
+        "parent": "C00-D49"
+    },
+    "C40-C41": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C40-C41",
+        "description": "Malignant neoplasms of bone and articular cartilage",
+        "parent": "C00-D49"
+    },
+    "C43-C44": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C43-C44",
+        "description": "Melanoma and other malignant neoplasms of skin",
+        "parent": "C00-D49"
+    },
+    "C45-C49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C45-C49",
+        "description": "Malignant neoplasms of mesothelial and soft tissue",
+        "parent": "C00-D49"
+    },
+    "C50-C50": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C50-C50",
+        "description": "Malignant neoplasms of breast",
+        "parent": "C00-D49"
+    },
+    "C51-C58": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C51-C58",
+        "description": "Malignant neoplasms of female genital organs",
+        "parent": "C00-D49"
+    },
+    "C60-C63": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C60-C63",
+        "description": "Malignant neoplasms of male genital organs",
+        "parent": "C00-D49"
+    },
+    "C64-C68": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C64-C68",
+        "description": "Malignant neoplasms of urinary tract",
+        "parent": "C00-D49"
+    },
+    "C69-C72": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C69-C72",
+        "description": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+        "parent": "C00-D49"
+    },
+    "C73-C75": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C73-C75",
+        "description": "Malignant neoplasms of thyroid and other endocrine glands",
+        "parent": "C00-D49"
+    },
+    "C76-C80": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C76-C80",
+        "description": "Malignant neoplasms of ill-defined, other secondary and unspecified sites",
+        "parent": "C00-D49"
+    },
+    "C7A-C7A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C7A-C7A",
+        "description": "Malignant neuroendocrine tumors",
+        "parent": "C00-D49"
+    },
+    "C7B-C7B": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C7B-C7B",
+        "description": "Secondary neuroendocrine tumors",
+        "parent": "C00-D49"
+    },
+    "C81-C96": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/C81-C96",
+        "description": "Malignant neoplasms of lymphoid, hematopoietic and related tissue",
+        "parent": "C00-D49"
+    },
+    "D00-D09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/D00-D09",
+        "description": "In situ neoplasms",
+        "parent": "C00-D49"
+    },
+    "D10-D36": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/D10-D36",
+        "description": "Benign neoplasms, except benign neuroendocrine tumors",
+        "parent": "C00-D49"
+    },
+    "D37-D48": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/D37-D48",
+        "description": "Neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes",
+        "parent": "C00-D49"
+    },
+    "D3A-D3A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/D3A-D3A",
+        "description": "Benign neuroendocrine tumors",
+        "parent": "C00-D49"
+    },
+    "D49-D49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49/D49-D49",
+        "description": "Neoplasms of unspecified behavior",
+        "parent": "C00-D49"
+    },
+    "D50-D53": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D50-D53",
+        "description": "Nutritional anemias",
+        "parent": "D50-D89"
+    },
+    "D55-D59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D55-D59",
+        "description": "Hemolytic anemias",
+        "parent": "D50-D89"
+    },
+    "D60-D64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D60-D64",
+        "description": "Aplastic and other anemias and other bone marrow failure syndromes",
+        "parent": "D50-D89"
+    },
+    "D65-D69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D65-D69",
+        "description": "Coagulation defects, purpura and other hemorrhagic conditions",
+        "parent": "D50-D89"
+    },
+    "D70-D77": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D70-D77",
+        "description": "Other disorders of blood and blood-forming organs",
+        "parent": "D50-D89"
+    },
+    "D78-D78": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D78-D78",
+        "description": "Intraoperative and postprocedural complications of the spleen",
+        "parent": "D50-D89"
+    },
+    "D80-D89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89/D80-D89",
+        "description": "Certain disorders involving the immune mechanism",
+        "parent": "D50-D89"
+    },
+    "E00-E07": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E00-E07",
+        "description": "Disorders of thyroid gland",
+        "parent": "E00-E89"
+    },
+    "E08-E13": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E08-E13",
+        "description": "Diabetes mellitus",
+        "parent": "E00-E89"
+    },
+    "E15-E16": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E15-E16",
+        "description": "Other disorders of glucose regulation and pancreatic internal secretion",
+        "parent": "E00-E89"
+    },
+    "E20-E35": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E20-E35",
+        "description": "Disorders of other endocrine glands",
+        "parent": "E00-E89"
+    },
+    "E36-E36": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E36-E36",
+        "description": "Intraoperative complications of endocrine system",
+        "parent": "E00-E89"
+    },
+    "E40-E46": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E40-E46",
+        "description": "Malnutrition",
+        "parent": "E00-E89"
+    },
+    "E50-E64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E50-E64",
+        "description": "Other nutritional deficiencies",
+        "parent": "E00-E89"
+    },
+    "E65-E68": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E65-E68",
+        "description": "Overweight, obesity and other hyperalimentation",
+        "parent": "E00-E89"
+    },
+    "E70-E88": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E70-E88",
+        "description": "Metabolic disorders",
+        "parent": "E00-E89"
+    },
+    "E89-E89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89/E89-E89",
+        "description": "Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",
+        "parent": "E00-E89"
+    },
+    "F01-F09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F01-F09",
+        "description": "Mental disorders due to known physiological conditions",
+        "parent": "F01-F99"
+    },
+    "F10-F19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F10-F19",
+        "description": "Mental and behavioral disorders due to psychoactive substance use",
+        "parent": "F01-F99"
+    },
+    "F20-F29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F20-F29",
+        "description": "Schizophrenia, schizotypal, delusional, and other non-mood psychotic disorders",
+        "parent": "F01-F99"
+    },
+    "F30-F39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F30-F39",
+        "description": "Mood [affective] disorders",
+        "parent": "F01-F99"
+    },
+    "F40-F48": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F40-F48",
+        "description": "Anxiety, dissociative, stress-related, somatoform and other nonpsychotic mental disorders",
+        "parent": "F01-F99"
+    },
+    "F50-F59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F50-F59",
+        "description": "Behavioral syndromes associated with physiological disturbances and physical factors",
+        "parent": "F01-F99"
+    },
+    "F60-F69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F60-F69",
+        "description": "Disorders of adult personality and behavior",
+        "parent": "F01-F99"
+    },
+    "F70-F79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F70-F79",
+        "description": "Intellectual disabilities",
+        "parent": "F01-F99"
+    },
+    "F80-F89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F80-F89",
+        "description": "Pervasive and specific developmental disorders",
+        "parent": "F01-F99"
+    },
+    "F90-F98": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F90-F98",
+        "description": "Behavioral and emotional disorders with onset usually occurring in childhood and adolescence",
+        "parent": "F01-F99"
+    },
+    "F99-F99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99/F99-F99",
+        "description": "Unspecified mental disorder",
+        "parent": "F01-F99"
+    },
+    "G00-G09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G00-G09",
+        "description": "Inflammatory diseases of the central nervous system",
+        "parent": "G00-G99"
+    },
+    "G10-G14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G10-G14",
+        "description": "Systemic atrophies primarily affecting the central nervous system",
+        "parent": "G00-G99"
+    },
+    "G20-G26": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G20-G26",
+        "description": "Extrapyramidal and movement disorders",
+        "parent": "G00-G99"
+    },
+    "G30-G32": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G30-G32",
+        "description": "Other degenerative diseases of the nervous system",
+        "parent": "G00-G99"
+    },
+    "G35-G37": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G35-G37",
+        "description": "Demyelinating diseases of the central nervous system",
+        "parent": "G00-G99"
+    },
+    "G40-G47": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G40-G47",
+        "description": "Episodic and paroxysmal disorders",
+        "parent": "G00-G99"
+    },
+    "G50-G59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G50-G59",
+        "description": "Nerve, nerve root and plexus disorders",
+        "parent": "G00-G99"
+    },
+    "G60-G65": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G60-G65",
+        "description": "Polyneuropathies and other disorders of the peripheral nervous system",
+        "parent": "G00-G99"
+    },
+    "G70-G73": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G70-G73",
+        "description": "Diseases of myoneural junction and muscle",
+        "parent": "G00-G99"
+    },
+    "G80-G83": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G80-G83",
+        "description": "Cerebral palsy and other paralytic syndromes",
+        "parent": "G00-G99"
+    },
+    "G89-G99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99/G89-G99",
+        "description": "Other disorders of the nervous system",
+        "parent": "G00-G99"
+    },
+    "H00-H05": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H00-H05",
+        "description": "Disorders of eyelid, lacrimal system and orbit",
+        "parent": "H00-H59"
+    },
+    "H10-H11": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H10-H11",
+        "description": "Disorders of conjunctiva",
+        "parent": "H00-H59"
+    },
+    "H15-H22": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H15-H22",
+        "description": "Disorders of sclera, cornea, iris and ciliary body",
+        "parent": "H00-H59"
+    },
+    "H25-H28": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H25-H28",
+        "description": "Disorders of lens",
+        "parent": "H00-H59"
+    },
+    "H30-H36": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H30-H36",
+        "description": "Disorders of choroid and retina",
+        "parent": "H00-H59"
+    },
+    "H40-H42": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H40-H42",
+        "description": "Glaucoma",
+        "parent": "H00-H59"
+    },
+    "H43-H44": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H43-H44",
+        "description": "Disorders of vitreous body and globe",
+        "parent": "H00-H59"
+    },
+    "H46-H47": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H46-H47",
+        "description": "Disorders of optic nerve and visual pathways",
+        "parent": "H00-H59"
+    },
+    "H49-H52": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H49-H52",
+        "description": "Disorders of ocular muscles, binocular movement, accommodation and refraction",
+        "parent": "H00-H59"
+    },
+    "H53-H54": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H53-H54",
+        "description": "Visual disturbances and blindness",
+        "parent": "H00-H59"
+    },
+    "H55-H57": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H55-H57",
+        "description": "Other disorders of eye and adnexa",
+        "parent": "H00-H59"
+    },
+    "H59-H59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59/H59-H59",
+        "description": "Intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified",
+        "parent": "H00-H59"
+    },
+    "H60-H62": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95/H60-H62",
+        "description": "Diseases of external ear",
+        "parent": "H60-H95"
+    },
+    "H65-H75": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95/H65-H75",
+        "description": "Diseases of middle ear and mastoid",
+        "parent": "H60-H95"
+    },
+    "H80-H83": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95/H80-H83",
+        "description": "Diseases of inner ear",
+        "parent": "H60-H95"
+    },
+    "H90-H94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95/H90-H94",
+        "description": "Other disorders of ear",
+        "parent": "H60-H95"
+    },
+    "H95-H95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95/H95-H95",
+        "description": "Intraoperative and postprocedural complications and disorders of ear and mastoid process, not elsewhere classified",
+        "parent": "H60-H95"
+    },
+    "I00-I02": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I00-I02",
+        "description": "Acute rheumatic fever",
+        "parent": "I00-I99"
+    },
+    "I05-I09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I05-I09",
+        "description": "Chronic rheumatic heart diseases",
+        "parent": "I00-I99"
+    },
+    "I10-I1A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I10-I1A",
+        "description": "Hypertensive diseases",
+        "parent": "I00-I99"
+    },
+    "I20-I25": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I20-I25",
+        "description": "Ischemic heart diseases",
+        "parent": "I00-I99"
+    },
+    "I26-I28": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I26-I28",
+        "description": "Pulmonary heart disease and diseases of pulmonary circulation",
+        "parent": "I00-I99"
+    },
+    "I30-I5A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A",
+        "description": "Other forms of heart disease",
+        "parent": "I00-I99"
+    },
+    "I60-I69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I60-I69",
+        "description": "Cerebrovascular diseases",
+        "parent": "I00-I99"
+    },
+    "I70-I79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I70-I79",
+        "description": "Diseases of arteries, arterioles and capillaries",
+        "parent": "I00-I99"
+    },
+    "I80-I89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I80-I89",
+        "description": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+        "parent": "I00-I99"
+    },
+    "I95-I99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99/I95-I99",
+        "description": "Other and unspecified disorders of the circulatory system",
+        "parent": "I00-I99"
+    },
+    "J00-J06": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J00-J06",
+        "description": "Acute upper respiratory infections",
+        "parent": "J00-J99"
+    },
+    "J09-J18": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J09-J18",
+        "description": "Influenza and pneumonia",
+        "parent": "J00-J99"
+    },
+    "J20-J22": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J20-J22",
+        "description": "Other acute lower respiratory infections",
+        "parent": "J00-J99"
+    },
+    "J30-J39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J30-J39",
+        "description": "Other diseases of upper respiratory tract",
+        "parent": "J00-J99"
+    },
+    "J40-J4A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J40-J4A",
+        "description": "Chronic lower respiratory diseases",
+        "parent": "J00-J99"
+    },
+    "J60-J70": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J60-J70",
+        "description": "Lung diseases due to external agents",
+        "parent": "J00-J99"
+    },
+    "J80-J84": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J80-J84",
+        "description": "Other respiratory diseases principally affecting the interstitium",
+        "parent": "J00-J99"
+    },
+    "J85-J86": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J85-J86",
+        "description": "Suppurative and necrotic conditions of the lower respiratory tract",
+        "parent": "J00-J99"
+    },
+    "J90-J94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J90-J94",
+        "description": "Other diseases of the pleura",
+        "parent": "J00-J99"
+    },
+    "J95-J95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J95-J95",
+        "description": "Intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified",
+        "parent": "J00-J99"
+    },
+    "J96-J99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99/J96-J99",
+        "description": "Other diseases of the respiratory system",
+        "parent": "J00-J99"
+    },
+    "K00-K14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K00-K14",
+        "description": "Diseases of oral cavity and salivary glands",
+        "parent": "K00-K95"
+    },
+    "K20-K31": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K20-K31",
+        "description": "Diseases of esophagus, stomach and duodenum",
+        "parent": "K00-K95"
+    },
+    "K35-K38": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K35-K38",
+        "description": "Diseases of appendix",
+        "parent": "K00-K95"
+    },
+    "K40-K46": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K40-K46",
+        "description": "Hernia",
+        "parent": "K00-K95"
+    },
+    "K50-K52": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K50-K52",
+        "description": "Noninfective enteritis and colitis",
+        "parent": "K00-K95"
+    },
+    "K55-K64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K55-K64",
+        "description": "Other diseases of intestines",
+        "parent": "K00-K95"
+    },
+    "K65-K68": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K65-K68",
+        "description": "Diseases of peritoneum and retroperitoneum",
+        "parent": "K00-K95"
+    },
+    "K70-K77": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K70-K77",
+        "description": "Diseases of liver",
+        "parent": "K00-K95"
+    },
+    "K80-K87": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K80-K87",
+        "description": "Disorders of gallbladder, biliary tract and pancreas",
+        "parent": "K00-K95"
+    },
+    "K90-K95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95/K90-K95",
+        "description": "Other diseases of the digestive system",
+        "parent": "K00-K95"
+    },
+    "L00-L08": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L00-L08",
+        "description": "Infections of the skin and subcutaneous tissue",
+        "parent": "L00-L99"
+    },
+    "L10-L14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L10-L14",
+        "description": "Bullous disorders",
+        "parent": "L00-L99"
+    },
+    "L20-L30": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L20-L30",
+        "description": "Dermatitis and eczema",
+        "parent": "L00-L99"
+    },
+    "L40-L45": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L40-L45",
+        "description": "Papulosquamous disorders",
+        "parent": "L00-L99"
+    },
+    "L49-L54": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L49-L54",
+        "description": "Urticaria and erythema",
+        "parent": "L00-L99"
+    },
+    "L55-L59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L55-L59",
+        "description": "Radiation-related disorders of the skin and subcutaneous tissue",
+        "parent": "L00-L99"
+    },
+    "L60-L75": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L60-L75",
+        "description": "Disorders of skin appendages",
+        "parent": "L00-L99"
+    },
+    "L76-L76": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L76-L76",
+        "description": "Intraoperative and postprocedural complications of skin and subcutaneous tissue",
+        "parent": "L00-L99"
+    },
+    "L80-L99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99/L80-L99",
+        "description": "Other disorders of the skin and subcutaneous tissue",
+        "parent": "L00-L99"
+    },
+    "M00-M02": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M00-M02",
+        "description": "Infectious arthropathies",
+        "parent": "M00-M99"
+    },
+    "M04-M04": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M04-M04",
+        "description": "Autoinflammatory syndromes",
+        "parent": "M00-M99"
+    },
+    "M05-M14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M05-M14",
+        "description": "Inflammatory polyarthropathies",
+        "parent": "M00-M99"
+    },
+    "M15-M19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M15-M19",
+        "description": "Osteoarthritis",
+        "parent": "M00-M99"
+    },
+    "M20-M25": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M20-M25",
+        "description": "Other joint disorders",
+        "parent": "M00-M99"
+    },
+    "M26-M27": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M26-M27",
+        "description": "Dentofacial anomalies [including malocclusion] and other disorders of jaw",
+        "parent": "M00-M99"
+    },
+    "M30-M36": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M30-M36",
+        "description": "Systemic connective tissue disorders",
+        "parent": "M00-M99"
+    },
+    "M40-M43": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M40-M43",
+        "description": "Deforming dorsopathies",
+        "parent": "M00-M99"
+    },
+    "M45-M49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M45-M49",
+        "description": "Spondylopathies",
+        "parent": "M00-M99"
+    },
+    "M50-M54": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M50-M54",
+        "description": "Other dorsopathies",
+        "parent": "M00-M99"
+    },
+    "M60-M63": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M60-M63",
+        "description": "Disorders of muscles",
+        "parent": "M00-M99"
+    },
+    "M65-M67": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M65-M67",
+        "description": "Disorders of synovium and tendon",
+        "parent": "M00-M99"
+    },
+    "M70-M79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M70-M79",
+        "description": "Other soft tissue disorders",
+        "parent": "M00-M99"
+    },
+    "M80-M85": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M80-M85",
+        "description": "Disorders of bone density and structure",
+        "parent": "M00-M99"
+    },
+    "M86-M90": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M86-M90",
+        "description": "Other osteopathies",
+        "parent": "M00-M99"
+    },
+    "M91-M94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M91-M94",
+        "description": "Chondropathies",
+        "parent": "M00-M99"
+    },
+    "M95-M95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M95-M95",
+        "description": "Other disorders of the musculoskeletal system and connective tissue",
+        "parent": "M00-M99"
+    },
+    "M96-M96": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M96-M96",
+        "description": "Intraoperative and postprocedural complications and disorders of musculoskeletal system, not elsewhere classified",
+        "parent": "M00-M99"
+    },
+    "M97-M97": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M97-M97",
+        "description": "Periprosthetic fracture around internal prosthetic joint",
+        "parent": "M00-M99"
+    },
+    "M99-M99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99/M99-M99",
+        "description": "Biomechanical lesions, not elsewhere classified",
+        "parent": "M00-M99"
+    },
+    "N00-N08": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N00-N08",
+        "description": "Glomerular diseases",
+        "parent": "N00-N99"
+    },
+    "N10-N16": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N10-N16",
+        "description": "Renal tubulo-interstitial diseases",
+        "parent": "N00-N99"
+    },
+    "N17-N19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N17-N19",
+        "description": "Acute kidney failure and chronic kidney disease",
+        "parent": "N00-N99"
+    },
+    "N20-N23": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N20-N23",
+        "description": "Urolithiasis",
+        "parent": "N00-N99"
+    },
+    "N25-N29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N25-N29",
+        "description": "Other disorders of kidney and ureter",
+        "parent": "N00-N99"
+    },
+    "N30-N39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N30-N39",
+        "description": "Other diseases of the urinary system",
+        "parent": "N00-N99"
+    },
+    "N40-N53": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N40-N53",
+        "description": "Diseases of male genital organs",
+        "parent": "N00-N99"
+    },
+    "N60-N65": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N60-N65",
+        "description": "Disorders of breast",
+        "parent": "N00-N99"
+    },
+    "N70-N77": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N70-N77",
+        "description": "Inflammatory diseases of female pelvic organs",
+        "parent": "N00-N99"
+    },
+    "N80-N98": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N80-N98",
+        "description": "Noninflammatory disorders of female genital tract",
+        "parent": "N00-N99"
+    },
+    "N99-N99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99/N99-N99",
+        "description": "Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified",
+        "parent": "N00-N99"
+    },
+    "O00-O08": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O00-O08",
+        "description": "Pregnancy with abortive outcome",
+        "parent": "O00-O9A"
+    },
+    "O09-O09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O09-O09",
+        "description": "Supervision of high risk pregnancy",
+        "parent": "O00-O9A"
+    },
+    "O10-O16": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O10-O16",
+        "description": "Edema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+        "parent": "O00-O9A"
+    },
+    "O20-O29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O20-O29",
+        "description": "Other maternal disorders predominantly related to pregnancy",
+        "parent": "O00-O9A"
+    },
+    "O30-O48": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O30-O48",
+        "description": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+        "parent": "O00-O9A"
+    },
+    "O60-O77": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O60-O77",
+        "description": "Complications of labor and delivery",
+        "parent": "O00-O9A"
+    },
+    "O80-O82": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O80-O82",
+        "description": "Encounter for delivery",
+        "parent": "O00-O9A"
+    },
+    "O85-O92": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O85-O92",
+        "description": "Complications predominantly related to the puerperium",
+        "parent": "O00-O9A"
+    },
+    "O94-O9A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A/O94-O9A",
+        "description": "Other obstetric conditions, not elsewhere classified",
+        "parent": "O00-O9A"
+    },
+    "P00-P04": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P00-P04",
+        "description": "Newborn affected by maternal factors and by complications of pregnancy, labor, and delivery",
+        "parent": "P00-P96"
+    },
+    "P05-P08": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P05-P08",
+        "description": "Disorders of newborn related to length of gestation and fetal growth",
+        "parent": "P00-P96"
+    },
+    "P09-P09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P09-P09",
+        "description": "Abnormal findings on neonatal screening",
+        "parent": "P00-P96"
+    },
+    "P10-P15": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P10-P15",
+        "description": "Birth trauma",
+        "parent": "P00-P96"
+    },
+    "P19-P29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P19-P29",
+        "description": "Respiratory and cardiovascular disorders specific to the perinatal period",
+        "parent": "P00-P96"
+    },
+    "P35-P39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P35-P39",
+        "description": "Infections specific to the perinatal period",
+        "parent": "P00-P96"
+    },
+    "P50-P61": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P50-P61",
+        "description": "Hemorrhagic and hematological disorders of newborn",
+        "parent": "P00-P96"
+    },
+    "P70-P74": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P70-P74",
+        "description": "Transitory endocrine and metabolic disorders specific to newborn",
+        "parent": "P00-P96"
+    },
+    "P76-P78": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P76-P78",
+        "description": "Digestive system disorders of newborn",
+        "parent": "P00-P96"
+    },
+    "P80-P83": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P80-P83",
+        "description": "Conditions involving the integument and temperature regulation of newborn",
+        "parent": "P00-P96"
+    },
+    "P84-P84": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P84-P84",
+        "description": "Other problems with newborn",
+        "parent": "P00-P96"
+    },
+    "P90-P96": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96/P90-P96",
+        "description": "Other disorders originating in the perinatal period",
+        "parent": "P00-P96"
+    },
+    "Q00-Q07": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q00-Q07",
+        "description": "Congenital malformations of the nervous system",
+        "parent": "Q00-Q99"
+    },
+    "Q10-Q18": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q10-Q18",
+        "description": "Congenital malformations of eye, ear, face and neck",
+        "parent": "Q00-Q99"
+    },
+    "Q20-Q28": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q20-Q28",
+        "description": "Congenital malformations of the circulatory system",
+        "parent": "Q00-Q99"
+    },
+    "Q30-Q34": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q30-Q34",
+        "description": "Congenital malformations of the respiratory system",
+        "parent": "Q00-Q99"
+    },
+    "Q35-Q37": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q35-Q37",
+        "description": "Cleft lip and cleft palate",
+        "parent": "Q00-Q99"
+    },
+    "Q38-Q45": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q38-Q45",
+        "description": "Other congenital malformations of the digestive system",
+        "parent": "Q00-Q99"
+    },
+    "Q50-Q56": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q50-Q56",
+        "description": "Congenital malformations of genital organs",
+        "parent": "Q00-Q99"
+    },
+    "Q60-Q64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q60-Q64",
+        "description": "Congenital malformations of the urinary system",
+        "parent": "Q00-Q99"
+    },
+    "Q65-Q79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q65-Q79",
+        "description": "Congenital malformations and deformations of the musculoskeletal system",
+        "parent": "Q00-Q99"
+    },
+    "Q80-Q89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q80-Q89",
+        "description": "Other congenital malformations",
+        "parent": "Q00-Q99"
+    },
+    "Q90-Q99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q90-Q99",
+        "description": "Chromosomal abnormalities, not elsewhere classified",
+        "parent": "Q00-Q99"
+    },
+    "R00-R09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R00-R09",
+        "description": "Symptoms and signs involving the circulatory and respiratory systems",
+        "parent": "R00-R99"
+    },
+    "R10-R19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R10-R19",
+        "description": "Symptoms and signs involving the digestive system and abdomen",
+        "parent": "R00-R99"
+    },
+    "R20-R23": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R20-R23",
+        "description": "Symptoms and signs involving the skin and subcutaneous tissue",
+        "parent": "R00-R99"
+    },
+    "R25-R29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R25-R29",
+        "description": "Symptoms and signs involving the nervous and musculoskeletal systems",
+        "parent": "R00-R99"
+    },
+    "R30-R39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R30-R39",
+        "description": "Symptoms and signs involving the genitourinary system",
+        "parent": "R00-R99"
+    },
+    "R40-R46": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R40-R46",
+        "description": "Symptoms and signs involving cognition, perception, emotional state and behavior",
+        "parent": "R00-R99"
+    },
+    "R47-R49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R47-R49",
+        "description": "Symptoms and signs involving speech and voice",
+        "parent": "R00-R99"
+    },
+    "R50-R69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R50-R69",
+        "description": "General symptoms and signs",
+        "parent": "R00-R99"
+    },
+    "R70-R79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R70-R79",
+        "description": "Abnormal findings on examination of blood, without diagnosis",
+        "parent": "R00-R99"
+    },
+    "R80-R82": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R80-R82",
+        "description": "Abnormal findings on examination of urine, without diagnosis",
+        "parent": "R00-R99"
+    },
+    "R83-R89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R83-R89",
+        "description": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+        "parent": "R00-R99"
+    },
+    "R90-R94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R90-R94",
+        "description": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+        "parent": "R00-R99"
+    },
+    "R97-R97": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R97-R97",
+        "description": "Abnormal tumor markers",
+        "parent": "R00-R99"
+    },
+    "R99-R99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99/R99-R99",
+        "description": "Ill-defined and unknown cause of mortality",
+        "parent": "R00-R99"
+    },
+    "S00-S09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S00-S09",
+        "description": "Injuries to the head",
+        "parent": "S00-T88"
+    },
+    "S10-S19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S10-S19",
+        "description": "Injuries to the neck",
+        "parent": "S00-T88"
+    },
+    "S20-S29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S20-S29",
+        "description": "Injuries to the thorax",
+        "parent": "S00-T88"
+    },
+    "S30-S39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S30-S39",
+        "description": "Injuries to the abdomen, lower back, lumbar spine, pelvis and external genitals",
+        "parent": "S00-T88"
+    },
+    "S40-S49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S40-S49",
+        "description": "Injuries to the shoulder and upper arm",
+        "parent": "S00-T88"
+    },
+    "S50-S59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S50-S59",
+        "description": "Injuries to the elbow and forearm",
+        "parent": "S00-T88"
+    },
+    "S60-S69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S60-S69",
+        "description": "Injuries to the wrist, hand and fingers",
+        "parent": "S00-T88"
+    },
+    "S70-S79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S70-S79",
+        "description": "Injuries to the hip and thigh",
+        "parent": "S00-T88"
+    },
+    "S80-S89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S80-S89",
+        "description": "Injuries to the knee and lower leg",
+        "parent": "S00-T88"
+    },
+    "S90-S99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S90-S99",
+        "description": "Injuries to the ankle and foot",
+        "parent": "S00-T88"
+    },
+    "T07-T07": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T07-T07",
+        "description": "Injuries involving multiple body regions",
+        "parent": "S00-T88"
+    },
+    "T14-T14": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T14-T14",
+        "description": "Injury of unspecified body region",
+        "parent": "S00-T88"
+    },
+    "T15-T19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T15-T19",
+        "description": "Effects of foreign body entering through natural orifice",
+        "parent": "S00-T88"
+    },
+    "T20-T25": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T20-T25",
+        "description": "Burns and corrosions of external body surface, specified by site",
+        "parent": "S00-T88"
+    },
+    "T26-T28": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T26-T28",
+        "description": "Burns and corrosions confined to eye and internal organs",
+        "parent": "S00-T88"
+    },
+    "T30-T32": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T30-T32",
+        "description": "Burns and corrosions of multiple and unspecified body regions",
+        "parent": "S00-T88"
+    },
+    "T33-T34": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T33-T34",
+        "description": "Frostbite",
+        "parent": "S00-T88"
+    },
+    "T36-T50": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T36-T50",
+        "description": "Poisoning by, adverse effect of and underdosing of drugs, medicaments and biological substances",
+        "parent": "S00-T88"
+    },
+    "T51-T65": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T51-T65",
+        "description": "Toxic effects of substances chiefly nonmedicinal as to source",
+        "parent": "S00-T88"
+    },
+    "T66-T78": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T66-T78",
+        "description": "Other and unspecified effects of external causes",
+        "parent": "S00-T88"
+    },
+    "T79-T79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T79-T79",
+        "description": "Certain early complications of trauma",
+        "parent": "S00-T88"
+    },
+    "T80-T88": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88/T80-T88",
+        "description": "Complications of surgical and medical care, not elsewhere classified",
+        "parent": "S00-T88"
+    },
+    "U00-U49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/U00-U85/U00-U49",
+        "description": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+        "parent": "U00-U85"
+    },
+    "U50-U85": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/U00-U85/U50-U85",
+        "description": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+        "parent": "U00-U85"
+    },
+    "V00-V09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V00-V09",
+        "description": "Pedestrian injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V10-V19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V10-V19",
+        "description": "Pedal cycle rider injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V20-V29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V20-V29",
+        "description": "Motorcycle rider injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V30-V39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V30-V39",
+        "description": "Occupant of three-wheeled motor vehicle injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V40-V49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V40-V49",
+        "description": "Car occupant injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V50-V59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V50-V59",
+        "description": "Occupant of pick-up truck or van injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V60-V69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V60-V69",
+        "description": "Occupant of heavy transport vehicle injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V70-V79": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V70-V79",
+        "description": "Bus occupant injured in transport accident",
+        "parent": "V00-Y99"
+    },
+    "V80-V89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V80-V89",
+        "description": "Other land transport accidents",
+        "parent": "V00-Y99"
+    },
+    "V90-V94": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V90-V94",
+        "description": "Water transport accidents",
+        "parent": "V00-Y99"
+    },
+    "V95-V97": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V95-V97",
+        "description": "Air and space transport accidents",
+        "parent": "V00-Y99"
+    },
+    "V98-V99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/V98-V99",
+        "description": "Other and unspecified transport accidents",
+        "parent": "V00-Y99"
+    },
+    "W00-W19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/W00-W19",
+        "description": "Slipping, tripping, stumbling and falls",
+        "parent": "V00-Y99"
+    },
+    "W20-W49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/W20-W49",
+        "description": "Exposure to inanimate mechanical forces",
+        "parent": "V00-Y99"
+    },
+    "W50-W64": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/W50-W64",
+        "description": "Exposure to animate mechanical forces",
+        "parent": "V00-Y99"
+    },
+    "W65-W74": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/W65-W74",
+        "description": "Accidental non-transport drowning and submersion",
+        "parent": "V00-Y99"
+    },
+    "W85-W99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/W85-W99",
+        "description": "Exposure to electric current, radiation and extreme ambient air temperature and pressure",
+        "parent": "V00-Y99"
+    },
+    "X00-X08": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X00-X08",
+        "description": "Exposure to smoke, fire and flames",
+        "parent": "V00-Y99"
+    },
+    "X10-X19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X10-X19",
+        "description": "Contact with heat and hot substances",
+        "parent": "V00-Y99"
+    },
+    "X30-X39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X30-X39",
+        "description": "Exposure to forces of nature",
+        "parent": "V00-Y99"
+    },
+    "X50-X50": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X50-X50",
+        "description": "Overexertion and strenuous or repetitive movements",
+        "parent": "V00-Y99"
+    },
+    "X52-X58": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X52-X58",
+        "description": "Accidental exposure to other specified factors",
+        "parent": "V00-Y99"
+    },
+    "X71-X83": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X71-X83",
+        "description": "Intentional self-harm",
+        "parent": "V00-Y99"
+    },
+    "X92-Y09": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/X92-Y09",
+        "description": "Assault",
+        "parent": "V00-Y99"
+    },
+    "Y21-Y33": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y21-Y33",
+        "description": "Event of undetermined intent",
+        "parent": "V00-Y99"
+    },
+    "Y35-Y38": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y35-Y38",
+        "description": "Legal intervention, operations of war, military operations, and terrorism",
+        "parent": "V00-Y99"
+    },
+    "Y62-Y69": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y62-Y69",
+        "description": "Misadventures to patients during surgical and medical care",
+        "parent": "V00-Y99"
+    },
+    "Y70-Y82": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y70-Y82",
+        "description": "Medical devices associated with adverse incidents in diagnostic and therapeutic use",
+        "parent": "V00-Y99"
+    },
+    "Y83-Y84": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y83-Y84",
+        "description": "Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+        "parent": "V00-Y99"
+    },
+    "Y90-Y99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99/Y90-Y99",
+        "description": "Supplementary factors related to causes of morbidity classified elsewhere",
+        "parent": "V00-Y99"
+    },
+    "Z00-Z13": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z00-Z13",
+        "description": "Persons encountering health services for examinations",
+        "parent": "Z00-Z99"
+    },
+    "Z14-Z15": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z14-Z15",
+        "description": "Genetic carrier and genetic susceptibility to disease",
+        "parent": "Z00-Z99"
+    },
+    "Z16-Z16": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z16-Z16",
+        "description": "Resistance to antimicrobial drugs",
+        "parent": "Z00-Z99"
+    },
+    "Z17-Z17": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z17-Z17",
+        "description": "Estrogen, and other hormones and factors receptor status",
+        "parent": "Z00-Z99"
+    },
+    "Z18-Z18": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z18-Z18",
+        "description": "Retained foreign body fragments",
+        "parent": "Z00-Z99"
+    },
+    "Z19-Z19": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z19-Z19",
+        "description": "Hormone sensitivity malignancy status",
+        "parent": "Z00-Z99"
+    },
+    "Z20-Z29": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z20-Z29",
+        "description": "Persons with potential health hazards related to communicable diseases",
+        "parent": "Z00-Z99"
+    },
+    "Z30-Z39": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z30-Z39",
+        "description": "Persons encountering health services in circumstances related to reproduction",
+        "parent": "Z00-Z99"
+    },
+    "Z40-Z53": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z40-Z53",
+        "description": "Encounters for other specific health care",
+        "parent": "Z00-Z99"
+    },
+    "Z55-Z65": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z55-Z65",
+        "description": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+        "parent": "Z00-Z99"
+    },
+    "Z66-Z66": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z66-Z66",
+        "description": "Do not resuscitate status",
+        "parent": "Z00-Z99"
+    },
+    "Z67-Z67": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z67-Z67",
+        "description": "Blood type",
+        "parent": "Z00-Z99"
+    },
+    "Z68-Z68": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z68-Z68",
+        "description": "Body mass index (BMI)",
+        "parent": "Z00-Z99"
+    },
+    "Z69-Z76": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z69-Z76",
+        "description": "Persons encountering health services in other circumstances",
+        "parent": "Z00-Z99"
+    },
+    "Z77-Z99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99/Z77-Z99",
+        "description": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+        "parent": "Z00-Z99"
+    }
+}

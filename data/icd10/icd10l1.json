@@ -1,0 +1,90 @@
+{
+    "A00-B99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/A00-B99",
+        "description": "Certain infectious and parasitic diseases"
+    },
+    "C00-D49": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/C00-D49",
+        "description": "Neoplasms"
+    },
+    "D50-D89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/D50-D89",
+        "description": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+    },
+    "E00-E89": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/E00-E89",
+        "description": "Endocrine, nutritional and metabolic diseases"
+    },
+    "F01-F99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/F01-F99",
+        "description": "Mental, Behavioral and Neurodevelopmental disorders"
+    },
+    "G00-G99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/G00-G99",
+        "description": "Diseases of the nervous system"
+    },
+    "H00-H59": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H00-H59",
+        "description": "Diseases of the eye and adnexa"
+    },
+    "H60-H95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/H60-H95",
+        "description": "Diseases of the ear and mastoid process"
+    },
+    "I00-I99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/I00-I99",
+        "description": "Diseases of the circulatory system"
+    },
+    "J00-J99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/J00-J99",
+        "description": "Diseases of the respiratory system"
+    },
+    "K00-K95": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/K00-K95",
+        "description": "Diseases of the digestive system"
+    },
+    "L00-L99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/L00-L99",
+        "description": "Diseases of the skin and subcutaneous tissue"
+    },
+    "M00-M99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/M00-M99",
+        "description": "Diseases of the musculoskeletal system and connective tissue"
+    },
+    "N00-N99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/N00-N99",
+        "description": "Diseases of the genitourinary system"
+    },
+    "O00-O9A": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/O00-O9A",
+        "description": "Pregnancy, childbirth and the puerperium"
+    },
+    "P00-P96": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/P00-P96",
+        "description": "Certain conditions originating in the perinatal period"
+    },
+    "Q00-Q99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Q00-Q99",
+        "description": "Congenital malformations, deformations and chromosomal abnormalities"
+    },
+    "R00-R99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/R00-R99",
+        "description": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    },
+    "S00-T88": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/S00-T88",
+        "description": "Injury, poisoning and certain other consequences of external causes"
+    },
+    "U00-U85": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/U00-U85",
+        "description": "Codes for special purposes"
+    },
+    "V00-Y99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/V00-Y99",
+        "description": "External causes of morbidity"
+    },
+    "Z00-Z99": {
+        "link": "https://www.icd10data.com/ICD10CM/Codes/Z00-Z99",
+        "description": "Factors influencing health status and contact with health services"
+    }
+}
