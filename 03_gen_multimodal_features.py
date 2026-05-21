@@ -11,12 +11,12 @@ data_dir = 'data'
 georegion_data_file = os.path.join(data_dir, 'georegions')
 raw_env_data_dir = f'data/raw/environment/{georegion}'
 landcover_file = f'data/raw/{georegion}_landcover.csv'
-img_feature_dir = os.path.join(data_dir, 'processed', 'gmap', f'img_features_{georegion}')
+img_feature_dir = os.path.join(data_dir, 'gmap', f'{georegion}')
 out_env_data_dir = os.path.join(data_dir, 'processed', georegion)
 out_embedding_dir = f'data/embeddings/{georegion}'
 years = list(range(2016, 2023))
 
-with open('data/processed/gmap/img_features.json', 'r') as f:
+with open('data/gmap/img_features.json', 'r') as f:
     img_feature_map = json.load(f)
 
 if georegion == 'County':

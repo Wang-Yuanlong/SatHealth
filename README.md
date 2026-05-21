@@ -1,5 +1,9 @@
 # SatHealth: A Multimodal Public Health Dataset with Satellite-based Environmental Factors
 
+<p align="left">
+<a href="https://arxiv.org/abs/2506.13842"><img src="https://img.shields.io/badge/arXiv-Paper_Link-blue"></a>
+</p>
+
 **Explore and Access SatHealth dataset with our web application at** [SatHealth Explorer](https://aimed-sathealth.net)
 
 This repository contains the official PyTorch implementation of the following paper:
@@ -54,8 +58,9 @@ If you just want to conduct the analysis we described in the paper, you can
 1. Download SatHealth at [SatHealth Explorer](https://aimed-sathealth.net)
 2. Download our embeddings at [SatHealth Explorer](https://aimed-sathealth.net)
 3. unzip `sathealth_dataset.zip` and put the data under `data/processed` 
-4. unzip `sathealth_embeddings.zip` and put the embeddings under `data/embeddings`
-5. go directly to [Conduct Analysis](#conduct-analysis) section.
+4. unzip `sathealth_embeddings.zip` and put the embeddings under `data/gmap`
+5. run `03_gen_multimodal_features.py` to compose multimodal embeddings
+6. go to [Conduct Analysis](#conduct-analysis) section.
 
 ### Environmental Data Extraction
 
@@ -83,7 +88,7 @@ Next, we will conduct the experiments on SatHealth. The first step is to constru
 python 02_gen_img_features.py
 ```
 
-Will construct an embedding vector for every satellite image in the `data/processed/images` folder and save it in `data/processed/gmap/img_features`. Moreover, it will generate regional embeddings for user-selected geographic regions at line 9, save them at `data/processed/gmap/img_features_{georegion}`. Note that this script will not overwrite existing image embeddings. If you updated the images, you should delete the embedding files and run the script again.
+Will construct an embedding vector for every satellite image in the `data/processed/images` folder and save it in `data/gmap/img_features`. Moreover, it will generate regional embeddings for user-selected geographic regions at line 9, save them at `data/gmap/{georegion}`. Note that this script will not overwrite existing image embeddings. If you updated the images, you should delete the embedding files and run the script again.
 
 After that, run
 ```bash

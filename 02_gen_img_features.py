@@ -9,8 +9,8 @@ from tqdm import tqdm
 georegion = 'County' # 'County', 'ZCTA', 'CBSA', 'CT'
 satellite_meta_dir = f'data/processed'
 satellite_img_dir = 'data/processed/images'
-out_img_feature_dir = 'data/processed/gmap/img_features/'
-out_region_feature_dir = f'data/processed/gmap/img_features_{georegion}/'
+out_img_feature_dir = f'data/gmap/img_features/'
+out_region_feature_dir = f'data/gmap/{georegion}/'
 os.makedirs(out_img_feature_dir, exist_ok=True)
 os.makedirs(out_region_feature_dir, exist_ok=True)
 
@@ -133,11 +133,6 @@ if __name__ == '__main__':
     num_workers = 16
     image_list = os.listdir(satellite_img_dir)
 
-    # gen_image_feature(os.path.join(satellite_img_dir, image_list[0])) # test
-    # gen_msa_image_feature(gmap_points[gmap_points['MSA'] == '18140']) # test
-    # gen_zcta_image_feature(zcta_points[zcta_points['zcta5'] == '43017']) # test
-    # gen_ct_image_feature(census_points[census_points['census_tract'] == '1400000US39001770100']) # test
-
     with Pool(num_workers) as p:
         myiter = p.imap_unordered(gen_image_feature, [os.path.join(satellite_img_dir, img) for img in image_list])
         for _ in tqdm(myiter, total=len(image_list)):
@@ -154,7 +149,7 @@ if __name__ == '__main__':
     image_feature_stats = ['min', 'max', 'mean', 'std', 'median'] + [f'hist_{i}' for i in range(20)]
     image_feature_set = [f'{item}_{stat}' for item in image_feature_items for stat in image_feature_stats]
     image_feature_set = {f'img_{i}': f for i, f in enumerate(image_feature_set)}
-    with open('data/processed/gmap/img_features.json', 'w') as f:
+    with open('data/gmap/img_features.json', 'w') as f:
         json.dump(image_feature_set, f, indent=4)
         
     
